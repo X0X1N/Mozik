@@ -1,0 +1,6 @@
+opencv-python
+numpy
+deepface
+tensorflow
+mediapipe
+tf-keras
